@@ -26,7 +26,7 @@ $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 IS_PHONE := true
 
-PRODUCT_NAME := aosp_pdx225
+PRODUCT_NAME := lineage_pdx225
 PRODUCT_DEVICE := pdx225
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_BRAND := Sony
